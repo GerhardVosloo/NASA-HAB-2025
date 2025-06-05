@@ -1,9 +1,6 @@
-This is the repository for Parklands College's collaborative mission on the NASA High Altitude Balloon launch in August 2025.
-
-
 # 🛰️ NASA HAB Mission 2025
 
-This is the official GitHub repository for Parklands College's collaborative **High Altitude Balloon (HAB)** mission — a student-led project inspired by NASA's space exploration goals. This project is part of our school's STAR program to explore the edge of space with real-world data collection and experimentation.
+This is the official GitHub repository for Parklands College's collaborative **High Altitude Balloon (HAB)** mission — a student-led project inspired by NASA's space exploration goals, launching in August 2025. This project is part of our school's STAR program to explore the edge of space with real-world data collection and experimentation.
 
 ---
 
