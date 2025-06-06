@@ -18,13 +18,16 @@ The goal of this HAB mission is to:
 
 Our payload includes the following experiments and sensors:
 
-| Sensor/Component     | Purpose                               |
-|----------------------|---------------------------------------|
-|                |   |
-|        |        |
-|            |       |
-|         |         |
-|        |                    |
-|         |     |
+### Payload 1: Parklands College
 
-You can find all hardware schematics and software files in the respective folders.
+| Sensor/Component     | Purpose                               | Link |
+|----------------------|---------------------------------------|------|
+| Vibration sensor     |                                       |
+| Accelerometer       |        |
+| HD Camera           |       |
+| tbd        |         |
+| tbd       |                    |
+
+### Payload 2: UCT and Parklands
+
+
